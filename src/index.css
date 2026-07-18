@@ -1,0 +1,4 @@
+/* Minimal provided styling so the dev harness renders legibly. The production app uses
+   Tailwind; it is intentionally omitted here to keep the sandbox dependency-light. */
+:root { font-family: system-ui, sans-serif; }
+body { margin: 0; }
